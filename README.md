@@ -3,6 +3,8 @@
 [ROS対応ロボット開発の基礎と車輪移動型ロボット・ロボットアームへの応用　＜オンラインセミナー＞](https://www.j-techno.co.jp/seminar/seminar-51609/
 )サポートページ
 
+- 本ページはセミナー終了後2週間程度を目途に公開終了の予定です。
+
 ## リンク集
 
 ### P1
@@ -99,6 +101,7 @@
 ### P55
 1. https://github.com/KMiyawaki/oit_minibot_heavy_v6/blob/main/launch/play_rosbag_gmapping.launch
 2. https://github.com/KMiyawaki/oit_minibot_heavy_v6/blob/main/launch/play_rosbag_gmapping.sh
+3. http://wiki.ros.org/rosbag/Commandline
 ### P56
 1. https://store.shopping.yahoo.co.jp/geosense2/f9px1.html
 2. https://github.com/terakenxx/f9p_ichimill
@@ -194,3 +197,4 @@
 1. https://www.originalmind.co.jp/products/kitmill_rz
 ### P109
 1. https://ssl.nic-direct.jp/
+
